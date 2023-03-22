@@ -2,7 +2,7 @@ name: 'H3110'
 description: 'echo hello-world'
 runs:
   using: 'docker'
-  image: 'DockerFile'
+  image: './DockerFile'
 branding:
   icon: 'globe'
   color: 'black'
