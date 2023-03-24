@@ -4,5 +4,5 @@ runs:
   using: 'docker'
   image: './dockerfile'
 branding:
-  icon: 'globe'
-  color: 'black'
+  icon:  'globe'
+  color: 'gray-dark'
